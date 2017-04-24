@@ -1,6 +1,6 @@
 # npmtest-eases
 
-#### test coverage for  [eases (v1.0.8)](https://github.com/mattdesl/eases)  [![npm package](https://img.shields.io/npm/v/npmtest-eases.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eases) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eases.svg)](https://travis-ci.org/npmtest/node-npmtest-eases)
+#### basic test coverage for  [eases (v1.0.8)](https://github.com/mattdesl/eases)  [![npm package](https://img.shields.io/npm/v/npmtest-eases.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eases) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eases.svg)](https://travis-ci.org/npmtest/node-npmtest-eases)
 
 #### grab bag of easing equations
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-eases/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-eases/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-eases/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-eases/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-eases/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-eases/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-eases/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-eases/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-eases/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-eases/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-eases/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-eases/build/coverage.html/index.html)
 
@@ -104,7 +104,8 @@
             "android-browser/latest"
         ]
     },
-    "version": "1.0.8"
+    "version": "1.0.8",
+    "bin": {}
 }
 ```
 
